@@ -21,3 +21,7 @@ Najprostsze podejście jest następujące:  wyobraźmy sobie labirynt jak siatk�
 Jako zadanie proszę Państwa o implementację któregoś z algorytmów grafowych do generowania labiryntu (algorytmy Prima i Kruskala będziemy omawiać na ćwiczeniach). Zadanie można wykonywać w praktycznie dowolnym języku (preferuję C++, C#, Java, Python, ale po konsultacji ze mną dopuszczam także możliwość wykorzystania innych języków lub technologii).
 W tym zadaniu liczy się także ogólny efekt, na który składa się m.in. interfejs użytkownika oraz możliwości konfiguracyjne programu (np. wybór rozmiaru labiryntu). Program można wykonać zarówno w wersji okienkowej jak i konsolowej (choć jest oczywiste, że wersja okienkowa oferuje lepsze możliwości wizualizacji).
 Więcej informacji na temat generowania labiryntów za pomocą algorytmów grafowych można znaleźć np. tutaj:  https://pl.qaz.wiki/wiki/Maze_generation_algorithm
+
+## Gif z implementacji programu
+
+![](gif.gif)
